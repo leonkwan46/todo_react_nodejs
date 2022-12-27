@@ -1,0 +1,10 @@
+.p {
+    text-align: left;
+}
+
+.box {
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    padding: 0% 40% 0% 36%;
+}
